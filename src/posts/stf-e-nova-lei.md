@@ -7,6 +7,8 @@ tags:
   - leis
   - cannabis
   - toffoli
+  - STF
 ---
 
+#Regulamentação Já! 
 "Será presumido usuário quem, para uso próprio, adquirir, guardar, tiver em depósito, transportar ou trouxer consigo até 40g quantidade de cannabis sativa ou seis plantas fêmeas, até que o Congresso venha a legislar a respeito", diz a tese aprovada pelos ministros.
