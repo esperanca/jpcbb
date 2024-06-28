@@ -1,6 +1,6 @@
 ---
 layout: layouts/default.njk
-title: Cronograma de exucução
+title: Cronograma de execução
 ---
 Entendemos que o desafio é grande. Mas acreditamos que com uma estrutura inovadora de colaboração e captação de recursos, conseguiremos alcançar nossa meta de atender 1500 cooperados em 2026. 
 
@@ -12,7 +12,7 @@ Se trata da constituinte da cooperativa, seguindo as normas da OCB, e da consequ
 [Chamada da Constituinte](#) 
 
 ## Projeto piloto
-Definição do serviço terapêutico, com diagnóstico, plano de tratamento para os [grupos de pacientes](#). Apoio para aquisição dos óleos e flores terapêuticas ou treinamento para produção própria. 
+Definição do serviço terapêutico, com diagnóstico, plano de tratamento para os [grupos de pacientes](#). Apoio para aquisição dos óleos e flores terapêuticas ou treinamento para produção própria das plantas. 
 
 Projeto [Casa da Volta](#) 
 
