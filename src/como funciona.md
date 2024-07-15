@@ -10,7 +10,7 @@ O cooperativismo baseia-se no princípio da "adesão livre e voluntária", pelo 
 
 Ser cooperado implica partilhar responsabilidades e riscos, bem como usufruir dos benefícios gerados coletivamente. Por exemplo, caso a cooperativa tenha perdas ou necessidades de investimento, os cooperados devem participar do rateio.
 
-## Capital integralizado. O que é a cota capital e quais benefícios ela traz para a sua vida financeira?
+## Capital integralizado.
 ## O que é a cota capital e quais benefícios ela traz para a sua vida financeira?
 
 Para ter acesso aos inúmeros benefícios da cooperativa é necessário se tornar cooperado a ela! E quando isso acontece, você não passa a ser apenas mais um cliente, mas sim um dos donos do negócio. Para isso, é necessário integralizar suas cotas no capital da nossa cooperativa. Cada cota tem o valor simbólico de R$ 420,00 (quatrocentos e vinte reais).  
@@ -26,4 +26,17 @@ Entenda que o capital de uma cooperativa é formado pela participação de todos
 Assim, é gerada sua principal fonte de receitas e o seu capital também ganha rentabilidade.
 
 ## Taxa Administrativa Mensal 
-E a contribuição mensal do cooperado para manutenção da cooperativa, ou seja, estrutura física, equipe interna, entre outras necessidades.
+
+É a contribuição mensal do cooperado para manutenção da cooperativa, ou seja, estrutura física, equipe interna, entre outras necessidades para cobrir os custos operacionais e administrativos da cooperativa. Essa taxa é essencial para garantir que a cooperativa possa funcionar de maneira eficiente e sustentável.
+
+Aqui estão alguns pontos importantes sobre a taxa administrativa mensal:
+
+Cálculo da Taxa: O valor da taxa administrativa mensal é composto de custos fixo e variável, com um valor fixo para todos os cooperados R$ 42,00 (quarenta e dois reais) e proporcional ao uso dos serviços da cooperativa.
+
+Destinação dos Recursos: Os recursos arrecadados com a taxa administrativa são utilizados para cobrir despesas como salários de funcionários, manutenção de instalações, materiais de escritório, e outros custos operacionais.
+
+Transparência: Para manter a transparência em relação à utilização dos recursos provenientes da taxa administrativa. Os relatórios financeiros periódicos e a prestação de contas em assembleias estão disponíveis para todos os cooperados.
+
+Revisão da Taxa: A taxa administrativa pode ser revisada periodicamente para se ajustar às necessidades financeiras da cooperativa. Qualquer alteração precisa ser aprovada pelos cooperados em assembleia.
+
+Diferença entre Taxa Administrativa e Outras Taxas: É importante diferenciar a taxa administrativa de outras possíveis taxas cobradas, como o capital integralizado, serviços e produtos específicos, entre outros.
