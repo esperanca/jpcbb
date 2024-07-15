@@ -11,7 +11,8 @@ O cooperativismo baseia-se no princípio da "adesão livre e voluntária", pelo 
 Ser cooperado implica partilhar responsabilidades e riscos, bem como usufruir dos benefícios gerados coletivamente. Por exemplo, caso a cooperativa tenha perdas ou necessidades de investimento, os cooperados devem participar do rateio.
 
 ## Capital integralizado.
-#  O que é a cota capital e quais benefícios ela traz para a sua vida financeira?
+
+O que é a cota capital e quais benefícios ela traz para a sua vida financeira?
 
 Para ter acesso aos inúmeros benefícios da cooperativa é necessário se tornar cooperado a ela! E quando isso acontece, você não passa a ser apenas mais um cliente, mas sim um dos donos do negócio. Para isso, é necessário integralizar suas cotas no capital da nossa cooperativa. Cada cota tem o valor simbólico de R$ 420,00 (quatrocentos e vinte reais).  
 
